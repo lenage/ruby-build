@@ -7,6 +7,9 @@ different versions of Ruby on UNIX-like systems.
 You can also use ruby-build without rbenv in environments where you
 need precise control over Ruby version installation.
 
+This fork use http://ruby.taobao.org as download source to save time when
+install ruby.
+
 
 ## Installation
 
